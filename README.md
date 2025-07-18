@@ -36,6 +36,11 @@ To demonstrate a functional, lightweight chatbot using pure Python — ideal for
 
 ---
 
+## 🧰Installation of  Libraries
+     pip install re random datetime sys
+
+---
+
 ## 🚀 How to Run
 
 ### 1. Clone the repository
