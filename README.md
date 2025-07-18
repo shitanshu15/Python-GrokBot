@@ -51,7 +51,7 @@ To demonstrate a functional, lightweight chatbot using pure Python — ideal for
 ---
 
 ### 2. Run the chatbot:
-     python python_chatbot.py
+     python GrokBot.py.py
      
 ✅ Make sure you're using Python 3.6 or higher — the script checks this automatically.
 
